@@ -23,6 +23,6 @@ This is a React frontend project for a wedding invitation website. It includes f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/wedding-invitation-frontend.git
+   git clone https://github.com/whinnla/wedding-invitation-frontend.git
    cd wedding-invitation-frontend
    ```
